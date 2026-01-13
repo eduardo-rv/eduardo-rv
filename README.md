@@ -11,7 +11,7 @@ I am a **Computer Systems Engineer** (Egresado) currently pursuing a second degr
 | :--- | :--- |
 | **Data Analysis** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-| **Education** | ![UNAM](https://img.shields.io/badge/UNAM-MAC_Student-D4AF37?labelColor=003D7C&style=for-the-badge&logo=puma&logoColor=white) ![UTEL](https://img.shields.io/badge/UTEL-Comp._Systems_Engineer-333333?labelColor=00A34F&style=for-the-badge&logo=google-classroom&logoColor=white) |
+| **Education** | ![UNAM](https://img.shields.io/badge/UNAM-MAC_Student-D4AF37?labelColor=003D7C&style=for-the-badge) ![UTEL](https://img.shields.io/badge/UTEL-Comp._Systems_Engineer-333333?labelColor=00A34F&style=for-the-badge) |
 
 ---
 
