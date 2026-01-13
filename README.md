@@ -31,5 +31,6 @@ I am a **Computer Systems Engineer** (Egresado) currently pursuing a second degr
 ---
 
 ### 📫 Let's connect!
-- **LinkedIn:** [Eduardo Rosas](https://www.linkedin.com/in/eduardo-rv/)
-- ![HackerRank](https://img.shields.io/badge/-HackerRank-27711?style=for-the-badge&logo=hackerrank&logoColor=white)
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/eduardo-rv/)
+- **HackerRank:** [hackerrank.com/profile/eduardo-rv](https://www.hackerrank.com/profile/eduardo_rv)
+- **Pronouns:** He/Him
