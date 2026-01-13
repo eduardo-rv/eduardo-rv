@@ -31,4 +31,4 @@ I am a **Computer Systems Engineer** (Egresado) currently pursuing a second degr
 ---
 
 ### 📫 Let's connect!
-- **LinkedIn:** [Link a tu perfil](https://www.linkedin.com/in/eduardo-rv/)
+- **LinkedIn:** [Eduardo Rosas](https://www.linkedin.com/in/eduardo-rv/)
