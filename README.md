@@ -21,13 +21,6 @@ I focus on combining software engineering foundations with mathematical rigor to
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardo-rv&show_icons=true&theme=tokyonight" alt="Eduardo's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/eduardo-rv/)
 - [HackerRank](https://www.hackerrank.com/profile/eduardo_rv)
