@@ -17,7 +17,7 @@ I focus on combining software engineering foundations with mathematical rigor to
 ### 🎯 Current Goals
 - 📊 **Career Target:** Building a technical portfolio to transition into a Data Analyst / Data Engineer role.
 - 🐍 **Data Engineering:** Translating my low-level programming logic into robust data pipelines.
-- 🌎 **Languages:** Mastering English for global collaboration and beginning my journey with Mandarin.
+- 🌎 **Languages:** Mastering English for global collaboration.
 
 ---
 
