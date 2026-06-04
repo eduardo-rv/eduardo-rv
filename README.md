@@ -1,6 +1,6 @@
 # Hi there! I'm Eduardo Rosas 👋 
 
-**Computer Systems Engineer | Applied Mathematics & Computing Student (UNAM)**
+**Computer Systems Engineer Graduate| Applied Mathematics & Computing Student (UNAM)**
 
 I focus on combining software engineering foundations with mathematical rigor to solve complex data problems. I am currently strengthening my knowledge in statistics and optimization at FES Acatlán while building out real-world business solutions.
 
